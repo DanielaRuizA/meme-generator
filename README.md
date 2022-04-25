@@ -49,6 +49,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 Daniela Ruiz - [linkedin](https://www.linkedin.com/in/daniela-ruiz-arango/) - Email daruiz1218@gmail.com
 
-Project Link: [https://github.com/DanielaRuizA/meme-generator](https://github.com/DanielaRuizA/meme-generatorgit)
+Project Link: [https://github.com/DanielaRuizA/meme-generator](https://github.com/DanielaRuizA/meme-generator)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
