@@ -18,7 +18,7 @@
 
 ## About The Project
 
-[![Meme Generator Screen Shot][Generator-screenshot]](/memegenerator.png)
+[![Meme Generator Screen Shot][Generator-screenshot]](./memegenerator.png)
 
 this project is a simple meme generator using the api https://api.imgflip.com/get_memes
 
@@ -47,7 +47,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Contact
 
-Daniela Ruiz - [linkedin](https://www.linkedin.com/in/daniela-ruiz-arango/) - [Email] (daruiz1218@gmail.com)gir
+Daniela Ruiz - [linkedin](https://www.linkedin.com/in/daniela-ruiz-arango/) - [Email](daruiz1218@gmail.com)
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
