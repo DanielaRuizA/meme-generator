@@ -47,7 +47,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Contact
 
-Daniela Ruiz - [linkedin](https://www.linkedin.com/in/daniela-ruiz-arango/) - [Email] (daruiz1218@gmail.com)
+Daniela Ruiz - [linkedin](https://www.linkedin.com/in/daniela-ruiz-arango/) - [Email] (daruiz1218@gmail.com)gir
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
