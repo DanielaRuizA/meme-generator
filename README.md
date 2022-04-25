@@ -28,9 +28,9 @@ this project is a simple meme generator using the api https://api.imgflip.com/ge
 ### Built With
 
 * [React.js](https://reactjs.org/)
-* [JavaScript]
-* [HTML]
-* [CSS]
+* JavaScript
+* HTML
+* CSS
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -49,6 +49,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 Daniela Ruiz - [linkedin](https://www.linkedin.com/in/daniela-ruiz-arango/) - Email daruiz1218@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/DanielaRuizA/meme-generator](https://github.com/DanielaRuizA/meme-generatorgit)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
